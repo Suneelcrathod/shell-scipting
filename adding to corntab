@@ -1,0 +1,7 @@
+https://cron.help/
+
+Instruct crontab to execute every 5 minute
+
+crontab -e
+
+*/5 * * * * /home/ubuntu/mybash
